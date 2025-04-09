@@ -1,6 +1,6 @@
 # Hi there, I'm Lamine 👋
 
-**JavaScript (ReactJs - Next.js) Developer**
+**Logistics & Operations Specialist / JavaScript (ReactJs - Next.js) Developer**
 
 - **Location:** Algiers, Algeria
 - **Current Position:** Web Developer at UPS Algeria
