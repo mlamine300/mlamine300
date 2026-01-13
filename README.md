@@ -1,6 +1,6 @@
 # Hi there, I'm Lamine 👋
 
-**Logistics & Operations Specialist / JavaScript (ReactJs - Next.js) Developer**
+**Logistics & Operations Specialist / JavaScript (ReactJs - Next.js) / MERN Developer**
 
 - **Location:** Algiers, Algeria
 - **Current Position:** Web Developer at UPS Algeria
@@ -8,7 +8,7 @@
 ## 🔧 Technologies & Tools
 
 - **Languages:** HTML, CSS, JavaScript, TypeScript,Java 
-- **Frameworks & Libraries:**  React.js, Next.js, Spring
+- **Frameworks & Libraries:**  React.js, Next.js,NODE/ExpressJS, Spring
 - **Databases:** SQL:postgresql - MySql - H2..., Supabase, AppWrite, Drizzle, MongoDB, FireBase, Prisma
 - **Tools & Platforms:Git, GitHub, Figma, Vercel, Netlify, Sentry
 
