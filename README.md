@@ -2,8 +2,8 @@
 
 **Logistics & Data Specialist / JavaScript (ReactJs - Next.js) / MERN Developer**
 
-- **Location:** Algiers, Algeria
-- **Current Position:** logistics engineer & Web Developer at UPS Algeria
+- **Location:** France
+- **Current Position:** logistics engineer & Web Developer at UPS
 
 ## 🔧 Technologies & Tools
 
